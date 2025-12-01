@@ -67,22 +67,8 @@ Select conversion type:
 Enter temperature in Fahrenheit:
 > 100
 Result: 37.78 °C
-Project Structure
-pgsql
-Copy code
-/Temperature
- ├─ .idea/                      # IDE configuration files
- ├─ app/                        # Application source code
- │   └─ src/main/java/          # Main Java source folder
- ├─ gradle/                     # Gradle wrapper files
- ├─ build.gradle.kts            # Gradle build script
- ├─ settings.gradle.kts         # Gradle settings file
- ├─ gradle.properties           # Gradle properties
- ├─ gradlew                    # Unix Gradle wrapper script
- ├─ gradlew.bat                # Windows Gradle wrapper script
- └─ README.md                  # Project README file
-Built With
-Java – Programming language
+
+Built With Java – Programming language
 
 Gradle – Build tool
 
